@@ -1,0 +1,63 @@
+
+<div class="col-lg-7 col-sm-12 table_box ">
+                        <table class="table table-bordered shadow-lg table-sm">
+                            <tbody>
+                            <tr>
+                                    <td>Вызов мастера</td>
+                                    <th scope="row">Бесплатно</th>
+                                </tr>
+                                <tr>
+                                    <td>Диагностика</td>
+                                    <th scope="row">Бесплатно</th>
+                                </tr>
+                                <tr>
+                                    <td>Диагностика в случае отказа от ремонта</td>
+                                    <th scope="row">300 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Протекает</td>
+                                    <th scope="row">от 500 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Не морозит</td>
+                                    <th scope="row">от 600 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Перемораживает</td>
+                                    <th scope="row">от 800 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Не выключается</td>
+                                    <th scope="row">от 600 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Не включается</td>
+                                    <th scope="row">от 600 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Сильно шумит</td>
+                                    <th scope="row">от 500 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Ремонт эклектросхемы</td>
+                                    <th scope="row">от 600 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Замена терморегулятора</td>
+                                    <th scope="row">от 800 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Заправка фреона</td>
+                                    <th scope="row">от 1200 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Устранение утечки хладагента</td>
+                                    <th scope="row">от 500 руб.</th>
+                                </tr>
+                                <tr>
+                                    <td>Замена компрессора</td>
+                                    <th scope="row">от 2500 руб.</th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>

@@ -1,0 +1,142 @@
+@media screen and (min-width: 1000px){
+    .mline_item-2{
+        font-size: 17px;
+        display: flex !important;
+        flex-direction: column !important;
+        text-align: center ;
+        align-self: flex-start;
+        margin-left:7px ;
+    }
+    .mline_item-2 div{
+        display: flex;
+        text-align: start;
+    }
+    .allform
+    {
+        position:fixed;
+        z-index: 100;
+        left:50%;
+        top:50%;
+        transform: translate(-50%,-50%);
+        transition: 1s;
+    }
+    .frombox
+    {
+    border-radius:12px;
+        align-items: center;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        height: 350px;
+        justify-content: space-around;
+        left: 50%;
+        padding: 30px;
+        text-align: center;
+        transition: 1s;
+        width: 550px;
+    }
+    #conttext
+    {
+        font-size: 24px;
+    }
+    .contactnbox
+    {
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+    }
+    #ezhednevno
+    {
+        font-size: 16px;
+    }
+    .nomertext
+    {
+        font-size: 30px;
+    }
+    .nomer
+    {
+        align-items: center;
+        background-color: rgb(17, 17, 17);
+        border-radius: 8px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        opacity: 0.8;
+        text-align: center;
+        width: 70%;
+    }
+    .rowbox
+    {
+        min-height: 100%;
+        overflow: hidden;
+        position: relative;
+    }
+    #pomosh
+    {
+        font-weight:bold;
+        display: flex;
+        flex-direction: column;
+        font-size: 35px;
+        padding:5px;
+        align-items:flex-start;
+    }
+    .textbox
+    {
+        color: white;
+    }
+    #zvonite
+    {
+        color: rgb(37, 75, 70);
+        left: 800px;
+        position: absolute;
+        top: 420px;
+    }
+    #zvonitetext
+    {
+        font-size: 40px;
+    }
+    .contactbox
+    {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        height: 170px;
+        justify-content: space-between;
+        opacity: 1.2;
+        width: 520px;
+    }
+    .linecolor
+    {
+        align-items: center;
+        background-color: rgba(48,53,58,0.7);
+        color: rgb(14, 173, 212);
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        justify-content: space-around;
+        position: absolute;
+        text-align: center;
+        width: 500px;
+        z-index: 2;
+    }
+    .wonder
+    {
+        left: 30%;
+        opacity: 1;
+        position: absolute;
+        top: 31%;
+        width: 350px;
+        z-index: 3;
+    }
+    .GKuhnya
+    {
+        transform: translate(0,-15%);
+        width: 100%;
+        z-index: -1;
+    }
+    .picture
+    {
+    height: 587px;
+    margin: 0;
+    }
+    }
